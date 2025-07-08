@@ -28,10 +28,10 @@ A collection of daily coding challenges, algorithms, and data structure implemen
 │   └── codewars/
 └── projects/
     └── mini-apps/
-```
-
-## 🎯 Goals
-
+- [x] Set up repository structure
+- [x] Implement basic sorting algorithms
+- [x] Solve first LeetCode problems
+- [x] Add searching algorithms
 - [ ] Solve 365 coding problems this year
 - [ ] Master all major algorithms
 - [ ] Build 12 mini projects
@@ -39,9 +39,9 @@ A collection of daily coding challenges, algorithms, and data structure implemen
 
 ## 📊 Progress
 
-**Current Streak**: 1 day  
-**Problems Solved**: 0  
+**Current Streak**: 2 days  
+**Problems Solved**: 4  
 **Languages Used**: JavaScript, Python, Java
 
 ---
-*Last Updated: July 6, 2025*
+*Last Updated: July 8, 2025*
