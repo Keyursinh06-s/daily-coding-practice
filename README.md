@@ -39,9 +39,9 @@ A collection of daily coding challenges, algorithms, and data structure implemen
 
 ## 📊 Progress
 
-**Current Streak**: 2 days  
-**Problems Solved**: 4  
-**Languages Used**: JavaScript, Python, Java
+**Current Streak**: 3 days  
+**Problems Solved**: 6  
+**Data Structures Implemented**: 2  
 
 ---
-*Last Updated: July 8, 2025*
+*Last Updated: July 9, 2025*
