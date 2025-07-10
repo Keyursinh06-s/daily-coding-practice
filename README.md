@@ -39,9 +39,9 @@ A collection of daily coding challenges, algorithms, and data structure implemen
 
 ## 📊 Progress
 
-**Current Streak**: 3 days  
-**Problems Solved**: 6  
-**Data Structures Implemented**: 2  
-
+**Current Streak**: 4 days  
+**Problems Solved**: 8  
+**Data Structures Implemented**: 3  
+**Algorithms Mastered**: 5  
 ---
-*Last Updated: July 9, 2025*
+*Last Updated: July 10, 2025*
